@@ -29,7 +29,7 @@ hero:
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
-    filename: "https://i.redd.it/wxnw6dk77ck71.png" # filename of your hero image (including file extension)
+    filename: "/images/space.png" # filename of your hero image (including file extension)
     alt: "" # Optional but recommended
     boxShadow: true # default 'false' (excludes .svg images)
     rounded: true # round the image corners? default 'false' (excludes .svg images)
