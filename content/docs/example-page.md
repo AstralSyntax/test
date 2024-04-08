@@ -9,6 +9,7 @@ toc: true
 description: "A quickstart guide to NebulaCraft"
 publishdate: "2023-05-03T22:37:22+01:00"
 tags: ["Beginners"]
+darkMode: true
 ---
 
 test
