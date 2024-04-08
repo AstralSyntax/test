@@ -28,7 +28,7 @@ hero:
   subtitle:
 
   image:
-    path: "images" # path to image under configured assets directory. default 'images'
+    path: "assets/images/space.png" # path to image under configured assets directory. default 'images'
     filename: "assets/images/space.png" # filename of your hero image (including file extension)
     alt: "" # Optional but recommended
     boxShadow: true # default 'false' (excludes .svg images)
@@ -37,7 +37,7 @@ hero:
   ctaButton:
     icon: rocket_launch
     btnText: "Get Started"
-    url: "/exampleSite/content/docs/quickstart.md"
+    url: "/content/docs/quickstart.md"
   cta2Button:
     icon: construction
     btnText: "In Development"
