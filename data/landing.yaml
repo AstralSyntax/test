@@ -24,8 +24,8 @@ hero:
   #   alt: "Lotus Docs Logo"
   #   height: 80px
 
-  title: "Lotus Docs"
-  subtitle: A lightweight, **modern documentation** theme for Hugo. Easily customised for building **fast**, **secure**, and **SEO-friendly** documentation sites.
+  title: "NebulaCraft Wiki"
+  subtitle:
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
@@ -47,7 +47,7 @@ hero:
 
 # Feature Grid
 featureGrid:
-  enable: true
+  enable: false
   weight: 20
   template: feature grid
 
@@ -93,7 +93,7 @@ featureGrid:
 
 # Image compare
 imageCompare:
-  enable: true
+  enable: false
   weight: 30
   template: image compare
 
