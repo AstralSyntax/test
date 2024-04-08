@@ -2,12 +2,12 @@
 
 # Hero
 hero:
-  enable: false
+  enable: true
   weight: 10
   template: hero
 
   backgroundImage:
-    path: "images/templates/hero"
+    path: "https://i.redd.it/wxnw6dk77ck71.png"
     filename:
       desktop: "gradient-desktop.webp"
       mobile: "gradient-mobile.webp"
