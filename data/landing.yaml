@@ -13,7 +13,7 @@ hero:
       mobile: "gradient-mobile.webp"
 
   badge:
-    text: v0.1.0
+    text: v0.0.0
     color: primary # primary, secondary, success, danger, warning, info, light, dark
     pill: false # boolean
     soft: true # boolean
@@ -37,7 +37,7 @@ hero:
   ctaButton:
     icon: rocket_launch
     btnText: "Get Started!"
-    url: "https://astralsyntax.github.io/test/docs/example-page/"
+    url: "docs/example-page/"
   cta2Button:
     icon: construction
     btnText: "In Development"
