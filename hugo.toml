@@ -1,4 +1,5 @@
-darkMode = true
+[params.docs]
+  darkMode = true
 [module]
   [module.hugoVersion]
     extended = true
