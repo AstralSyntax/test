@@ -37,7 +37,7 @@ hero:
   ctaButton:
     icon: rocket_launch
     btnText: "Get Started!"
-    url: "content/docs/"
+    url: "https://astralsyntax.github.io/test/docs/"
   cta2Button:
     icon: construction
     btnText: "In Development"
