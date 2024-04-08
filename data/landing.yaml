@@ -7,7 +7,7 @@ hero:
   template: hero
 
   backgroundImage:
-    path: "https://i.redd.it/wxnw6dk77ck71.png"
+    path: "/images/tn.png"
     filename:
       desktop: "gradient-desktop.webp"
       mobile: "gradient-mobile.webp"
@@ -29,21 +29,21 @@ hero:
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
-    filename: "lotus_docs_screenshot.png" # filename of your hero image (including file extension)
-    alt: "Lotus Docs Screenshot" # Optional but recommended
+    filename: "https://i.redd.it/wxnw6dk77ck71.png" # filename of your hero image (including file extension)
+    alt: "" # Optional but recommended
     boxShadow: true # default 'false' (excludes .svg images)
     rounded: true # round the image corners? default 'false' (excludes .svg images)
 
   ctaButton:
     icon: rocket_launch
     btnText: "Get Started"
-    url: "/docs/quickstart/#create-a-new-lotus-docs-site"
+    url: "/docs/quickstart"
   cta2Button:
     icon: construction
     btnText: "In Development"
-    url: "https://github.com/colinwilson/lotusdocs"
+    url: "https://discord.gg/afCJJyxx3c"
 
-  info: "**Open Source** MIT Licensed."
+  info: ""
 
 # Feature Grid
 featureGrid:
