@@ -28,8 +28,8 @@ hero:
   subtitle:
 
   image:
-    path: "assets/images/space.png" # path to image under configured assets directory. default 'images'
-    filename: "assets/images/space.png" # filename of your hero image (including file extension)
+    path: "images" # path to image under configured assets directory. default 'images'
+    filename: "space.png" # filename of your hero image (including file extension)
     alt: "" # Optional but recommended
     boxShadow: true # default 'false' (excludes .svg images)
     rounded: true # round the image corners? default 'false' (excludes .svg images)
