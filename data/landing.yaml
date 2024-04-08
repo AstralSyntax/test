@@ -36,7 +36,7 @@ hero:
 
   ctaButton:
     icon: rocket_launch
-    btnText: "Get Started"
+    btnText: "Get Started!"
     url: "content/docs/example-page.md"
   cta2Button:
     icon: construction
